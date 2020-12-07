@@ -7,8 +7,10 @@
 - :zap: I love to solve problems, try new tech, spend time on Computer and play Games.
 - 🌱 I’m always on hunt to learn new things and solve new problems.
 
-My Github profile summary :-
+- My Github profile summary :-
+
 [![Ujjawal's github stats](https://github-readme-stats.vercel.app/api?username=ujjukumar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-My Github code languages :-
+- My Github code languages :-
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjukumar)](https://github.com/anuraghazra/github-readme-stats)
