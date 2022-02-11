@@ -9,8 +9,8 @@
 
 - My Github profile summary :-
 
-[![Ujjawal's github stats](https://github-readme-stats.vercel.app/api?username=ujjukumar&count_private=true&show_icons=true&theme=default&hide_rank=false)](https://github.com/ujjukumar/github-readme-stats)
+[![Ujjawal's github stats](https://github-readme-stats.vercel.app/api?username=ujjukumar&count_private=true&show_icons=true&theme=default&hide_rank=false)](https://github.com/ujjukumar)
 
 - My Github code languages :-
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjukumar)](https://github.com/ujjukumar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjukumar)](https://github.com/ujjukumar)
