@@ -5,7 +5,7 @@
 I modernize legacy .NET systems. Over five years I've led a Xamarin.Forms → .NET MAUI rewrite shipped on iOS, Android and Windows, migrated WCF services to REST, built an authentication and key-management stack from scratch, and owned CI/CD through three major .NET upgrades. Named inventor on a filed patent.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ujju-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujju)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ujjawalkumar1810@gmail.com)
 
 ---
 
@@ -35,9 +35,5 @@ I modernize legacy .NET systems. Over five years I've led a Xamarin.Forms → .N
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ujjukumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ujjukumar&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,matlab" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ujjukumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ujjukumar&layout=compact&theme=catppuccin_mocha&hide_border=true&hide=jupyter%20notebook,matlab" alt="Top languages" />
 </p>
