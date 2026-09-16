@@ -26,9 +26,9 @@ I modernize legacy .NET systems. Over five years I've led a Xamarin.Forms → .N
 ### 🚀 Side projects
 
 - ⚡ **[Monitor-Brightness-Control](https://github.com/ujjukumar/Monitor-Brightness-Control)** — .NET 10 monitor brightness controller with global hotkeys, debounced DDC/CI calls, and both Native AOT (~18 MB) and framework-dependent (~175 KB) builds.
-- 🦀 **[brightnessctl-rs](https://github.com/ujjukumar/brightness-contol-rust)** — the same idea in Rust with no UI framework: raw Win32, Direct2D/DirectWrite rendering, DDC/CI, single binary under 1 MB with LTO.
-- 🎯 **[auto-skipper](https://github.com/ujjukumar/genshin-helper)** — .NET 10 automation tool using pixel sampling, Win32 input simulation and randomized timing.
-- 🔢 **[svhn-digit-classifier](https://github.com/ujjukumar/ML-model-for-SVHN-dataset)** — TensorFlow CNN for street-view house numbers, 92.8% test accuracy on SVHN.
+- 🦀 **[brightnessctl-rs](https://github.com/ujjukumar/brightnessctl-rs)** — the same idea in Rust with no UI framework: raw Win32, Direct2D/DirectWrite rendering, DDC/CI, single binary under 1 MB with LTO.
+- 🎯 **[auto-skipper](https://github.com/ujjukumar/auto-skipper)** — .NET 10 automation tool using pixel sampling, Win32 input simulation and randomized timing.
+- 🔢 **[svhn-digit-classifier](https://github.com/ujjukumar/svhn-digit-classifier)** — TensorFlow CNN for street-view house numbers, 92.8% test accuracy on SVHN.
 
 ---
 
