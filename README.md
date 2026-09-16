@@ -35,6 +35,9 @@ I modernize legacy .NET systems. Over five years I've led a Xamarin.Forms → .N
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjukumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjukumar&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,matlab" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ujjukumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ujjukumar&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,matlab" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ujjukumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
